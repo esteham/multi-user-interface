@@ -355,7 +355,7 @@
                         <tbody>
                         <tr>
                             <td>1</td>
-                            <td>NobleUI jQuery</td>
+                            <td>xetroot jQuery</td>
                             <td>01/01/2022</td>
                             <td>26/04/2022</td>
                             <td><span class="badge bg-danger">Released</span></td>
@@ -363,7 +363,7 @@
                         </tr>
                         <tr>
                             <td>2</td>
-                            <td>NobleUI Angular</td>
+                            <td>xetroot Angular</td>
                             <td>01/01/2022</td>
                             <td>26/04/2022</td>
                             <td><span class="badge bg-success">Review</span></td>
@@ -371,7 +371,7 @@
                         </tr>
                         <tr>
                             <td>3</td>
-                            <td>NobleUI ReactJs</td>
+                            <td>xetroot ReactJs</td>
                             <td>01/05/2022</td>
                             <td>10/09/2022</td>
                             <td><span class="badge bg-info">Pending</span></td>
@@ -379,7 +379,7 @@
                         </tr>
                         <tr>
                             <td>4</td>
-                            <td>NobleUI VueJs</td>
+                            <td>xetroot VueJs</td>
                             <td>01/01/2022</td>
                             <td>31/11/2022</td>
                             <td><span class="badge bg-warning">Work in Progress</span>
@@ -388,7 +388,7 @@
                         </tr>
                         <tr>
                             <td>5</td>
-                            <td>NobleUI Laravel</td>
+                            <td>xetroot Laravel</td>
                             <td>01/01/2022</td>
                             <td>31/12/2022</td>
                             <td><span class="badge bg-danger">Coming soon</span></td>
@@ -396,7 +396,7 @@
                         </tr>
                         <tr>
                             <td>6</td>
-                            <td>NobleUI NodeJs</td>
+                            <td>xetroot NodeJs</td>
                             <td>01/01/2022</td>
                             <td>31/12/2022</td>
                             <td><span class="badge bg-primary">Coming soon</span></td>
@@ -404,7 +404,7 @@
                         </tr>
                         <tr>
                             <td class="border-bottom">3</td>
-                            <td class="border-bottom">NobleUI EmberJs</td>
+                            <td class="border-bottom">xetroot EmberJs</td>
                             <td class="border-bottom">01/05/2022</td>
                             <td class="border-bottom">10/11/2022</td>
                             <td class="border-bottom"><span class="badge bg-info">Pending</span></td>

@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
-* NobleUI - HTML Bootstrap 5 Admin Dashboard Template v2.0.2 (https://nobleui.com/)
-* Copyright © 2022 NobleUI
+* xetroot - HTML Bootstrap 5 Admin Dashboard Template v2.0.2 (https://xetroot.com/)
+* Copyright © 2022 xetroot
 * Licensed under ThemeForest License
 */
 :root {
@@ -19287,19 +19287,19 @@ body {
   background: #f9fafb;
 }
 
-.noble-ui-logo {
+.xetroot-ui-logo {
   font-weight: 700;
   font-size: 25px;
   color: #000865;
 }
-.noble-ui-logo span {
+.xetroot-ui-logo span {
   color: #6571ff;
   font-weight: 300;
 }
-.noble-ui-logo:hover {
+.xetroot-ui-logo:hover {
   color: #000865;
 }
-.noble-ui-logo.logo-light {
+.xetroot-ui-logo.logo-light {
   color: #000;
 }
 
