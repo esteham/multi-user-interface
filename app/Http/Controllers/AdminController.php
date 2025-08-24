@@ -54,7 +54,7 @@ class AdminController extends Controller
 
             $file = $request->file('photo');
             @unlink(public_path('upload/admin_images/'.$data->photo));
-            $filename = date('YmHi').$file->getClientOriginalName();
+            $filename = date('YmHi').uniqid().$file->getClientOriginalExtension();
             $file->move(public_path('upload/admin_images'),$filename);
             $data['photo'] = $filename;
 
