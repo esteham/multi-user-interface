@@ -11,7 +11,7 @@
                         <div class="d-flex align-items-center justify-content-between mb-2">
 
                             <div>
-                                <img class="wd-100 rounded-circle" src="{{ (!empty($profileData->photo)) ? url('upload/admin_images/'.$profileData->photo) : url('upload/no_image.jpg')}}" alt="profile">
+                                <img class="wd-80 ht-80 rounded-circle" src="{{ (!empty($profileData->photo)) ? url('upload/admin_images/'.$profileData->photo) : url('upload/no_image.jpg')}}" alt="profile">
                                 <span class="h4 ms-3 ">{{ $profileData->name }}</span>
                             </div>
 
@@ -81,7 +81,7 @@
 
                                 <div class="mb-3">
                                     <label for="exampleInputUsername1" class="form-label"> </label>
-                                    <img id="showImage" class="wd-80 rounded-circle" src="{{ (!empty($profileData->photo)) ? url('upload/admin_images/'.$profileData->photo) : url('upload/no_image.jpg')}}" alt="profile">
+                                    <img id="showImage" class="wd-70 ht-70 rounded-circle" src="{{ (!empty($profileData->photo)) ? url('upload/admin_images/'.$profileData->photo) : url('upload/no_image.jpg')}}" alt="profile">
                                 </div>
 
                                 <button type="submit" class="btn btn-primary me-2">Save Changes</button>
