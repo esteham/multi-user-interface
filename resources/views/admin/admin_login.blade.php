@@ -38,7 +38,7 @@
         .authlogin-side-wrapper{
             width: 100%;
             height: 100%;
-            background-image: url({{ asset('upload/login.png')}});
+            background-image: url('/upload/login.png');
         }
   </style>
 </head>
