@@ -83,7 +83,7 @@
 	<script>
 		@if(Session::has('message'))
 		var type = "{{ Session::get('alert-type', 'info') }}"
-		Switch(type){
+		switch(type){
 
 			case 'info':
 				toastr.info("{{ Session::get('message') }}");
